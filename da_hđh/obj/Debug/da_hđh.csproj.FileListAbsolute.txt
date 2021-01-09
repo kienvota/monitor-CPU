@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\da_hđh\da_hđh\bin\Debug\da_hđh.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\da_hđh\da_hđh\bin\Debug\da_hđh.exe
+c:\users\admin\documents\visual studio 2015\Projects\da_hđh\da_hđh\bin\Debug\da_hđh.pdb
+c:\users\admin\documents\visual studio 2015\Projects\da_hđh\da_hđh\bin\Debug\MetroFramework.Design.dll
+c:\users\admin\documents\visual studio 2015\Projects\da_hđh\da_hđh\bin\Debug\MetroFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\da_hđh\da_hđh\bin\Debug\MetroFramework.Fonts.dll
+c:\users\admin\documents\visual studio 2015\Projects\da_hđh\da_hđh\obj\Debug\da_hđh.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\da_hđh\da_hđh\obj\Debug\da_hđh.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\da_hđh\da_hđh\obj\Debug\da_hđh.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\da_hđh\da_hđh\obj\Debug\da_hđh.exe
+c:\users\admin\documents\visual studio 2015\Projects\da_hđh\da_hđh\obj\Debug\da_hđh.pdb
+c:\users\admin\documents\visual studio 2015\Projects\da_hđh\da_hđh\obj\Debug\da_hđh.Form1.resources
